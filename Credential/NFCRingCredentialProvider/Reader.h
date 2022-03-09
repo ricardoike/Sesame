@@ -15,6 +15,7 @@
 
 #include <windows.h>
 #include <thread>
+#include <string>
 #include "NFCCredentialProvider.h"
 #include "guid.h"
 
